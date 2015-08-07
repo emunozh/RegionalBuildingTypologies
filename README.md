@@ -7,7 +7,7 @@ steps. A folder called `scripts` contains a collection of scripts used during
 the analysis. The notebooks can be render within github of visualized at
 [nbviewer](http://nbviewer.ipython.org/github/emunozh/RegionalBuildingTypologies/tree/master/).
 
-[start here]()
+[start here](http://nbviewer.ipython.org/github/emunozh/RegionalBuildingTypologies/blob/master/%28a%29%20Data%20Retrival.ipynb)
 
 The paper has been submitted to the journal
 [Management of Environmental Quality: An International Journal](http://www.emeraldinsight.com/loi/meq)

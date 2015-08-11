@@ -1,10 +1,13 @@
 # Regional Building Typologies
 
-Supplementary material for a manuscript submission
+Supplementary material for the paper entitle: **Construction of Regional Building
+Typologies with a Material Catalog: Assessment of Urban Heat Demand and the
+Environmental Impact of Retrofit Policies**
 
-It contains a set of IPython notebooks documenting the undertaken analysis
-steps. A folder called `scripts` contains a collection of scripts used during
-the analysis. The notebooks can be render within github of visualized at
+It contains a set of IPython notebooks documenting the analysis steps describe
+and discuss in the paper. A folder called `scripts` contains a collection of
+scripts used during the analysis. The notebooks can be render within github of
+visualized at
 [nbviewer](http://nbviewer.ipython.org/github/emunozh/RegionalBuildingTypologies/tree/master/).
 
 [start here](http://nbviewer.ipython.org/github/emunozh/RegionalBuildingTypologies/blob/master/%28_%29%20Index.ipynb)
